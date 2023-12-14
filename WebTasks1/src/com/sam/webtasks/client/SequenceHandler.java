@@ -61,8 +61,17 @@ public class SequenceHandler {
 			 * The code here defines the main sequence of events in the experiment *
 			 ********************************************************************/		
 			case 1:
-				Q_Sara3.Run();
-				break;		
+				Q_VVIQ1.Run();
+				break;	
+			case 2:
+				Q_VVIQ2.Run();
+				break;	
+			case 3:
+				Q_VVIQ3.Run();
+				break;
+			case 4:
+				Q_VVIQ4.Run();
+				break;	
 			}
 			break; 
 
